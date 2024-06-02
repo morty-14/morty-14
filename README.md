@@ -10,6 +10,4 @@
 
 🔗 Social links: https://campsite.bio/morty14
 
-🔗 LinkedIn: https://www.linkedin.com/in/esther-ngulu-7a0a3b218/
-
 🔗 Portfolio (under construction⚠): 
