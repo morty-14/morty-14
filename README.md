@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Salutations!
 
-<!--
-**morty-14/morty-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Development student.
 
-Here are some ideas to get you started:
+💡 Always seeking the next best opportunity to sharpen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Interested in front-end development (Figma, HTML, CSS).
+
+📸 Freelance photography, videography, graphic design, and editing.
+
+🔗 Social links: https://campsite.bio/morty14
+
+🔗 LinkedIn: https://www.linkedin.com/in/esther-ngulu-7a0a3b218/
+
+🔗 Portfolio (under construction⚠): 
