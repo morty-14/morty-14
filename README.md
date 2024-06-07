@@ -10,4 +10,4 @@
 
 🔗 Social links: https://campsite.bio/morty14
 
-🔗 Portfolio (under construction⚠): 
+🔗 Portfolio: https://vimeo.com/estherngulu
