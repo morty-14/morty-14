@@ -6,7 +6,7 @@
 
 ✨ Interested in front-end development (Figma, HTML, CSS).
 
-📸 Freelance photography, videography, graphic design, and editing.
+📸 Freelance photographer, videographer, graphic designer, and editor.
 
 🔗 Social links: https://campsite.bio/morty14
 
