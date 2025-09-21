@@ -1,4 +1,4 @@
-👋 Heyo!
+👋 Heyo, I'm Esther Ngulu..
 
 🎓 I'm a Software Development student.
 
